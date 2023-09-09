@@ -1,1 +1,0 @@
-ans = 'Apple' in furits;
